@@ -1,4 +1,4 @@
-const API_URL = 'https://relatoriopetbackend.onrender.com';
+const API_URL = 'https://relatoriopetbackend.onrender.com/api/entries';
 
 const form = document.getElementById('entry-form');
 const entryId = document.getElementById('entry-id');
